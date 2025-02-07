@@ -1,4 +1,4 @@
-****Tech4MentalHealth****
+# Tech4MentalHealth
 
 **Overview**
 
