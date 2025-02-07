@@ -6,12 +6,11 @@ This project classifies mental health-related text into categories: Depression, 
 
 **Dataset**
 
-Load Data: Import the training and test datasets
-Find the dataset here: [Zindi Tech4MentalHealth Dataset.](https://zindi.africa/competitions/basic-needs-basic-rights-kenya-tech4mentalhealth/data) .
+The dataset used for training and testing can be accessed here:  [Zindi Tech4MentalHealth Dataset.](https://zindi.africa/competitions/basic-needs-basic-rights-kenya-tech4mentalhealth/data) .
 
 **Files Included**
 
-notebook.ipynb: Jupyter Notebook containing the full workflow.
+notebook.ipynb: Jupyter Notebook containing the full workflow, including data preprocessing, model training, and evaluation.
 
 **Note on Submission File**
 
